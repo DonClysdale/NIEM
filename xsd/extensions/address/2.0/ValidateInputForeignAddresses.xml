@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add:Addresses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://interoperability.gc.ca/address/AddressValidation/2.0/ AddressValidation.xsd"
+    xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/"
+    xmlns:add="http://interoperability.gc.ca/address/AddressValidation/2.0/"
+    xmlns:tran="http://interoperability.gc.ca/techncical/transaction/2.0/">
+    <nc:Address><nc:AddressFullText>5224 CLUB HEAD ROAD</nc:AddressFullText><nc:AddressFullText>VIRGINIA BEACH VA 23455</nc:AddressFullText><nc:AddressFullText>USA</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>95 RIVER STREET</nc:AddressFullText><nc:AddressFullText>SLEEPY HOLLOW NEW YORK 10591</nc:AddressFullText><nc:AddressFullText>UNITED STATES</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>16 RUE DES FAIX</nc:AddressFullText><nc:AddressFullText>ST GEORGE DES GROSEILLERS</nc:AddressFullText><nc:AddressFullText>61100 FLERS FRANCE</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>44 ORANMORE RD</nc:AddressFullText><nc:AddressFullText>BALLYFERMOT DUBLIN</nc:AddressFullText><nc:AddressFullText>IRELAND D10HY88</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>223 SUTHERLAND DR EASTHAM</nc:AddressFullText><nc:AddressFullText>MERSEYSIDE ENGLAND</nc:AddressFullText><nc:AddressFullText>CH6 28E</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>226 MCKENDRY DR</nc:AddressFullText><nc:AddressFullText>MENLO PARK</nc:AddressFullText><nc:AddressFullText>CALIFORNIA 94025</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>2988 COVE TRACE</nc:AddressFullText><nc:AddressFullText>CHARLOTTESVILLE VA 22911</nc:AddressFullText><nc:AddressFullText>USA</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>42 OLD CART PASS</nc:AddressFullText><nc:AddressFullText>HOLLISTON, MA, USA</nc:AddressFullText><nc:AddressFullText>01746</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>3 LAWRENCE VILLE</nc:AddressFullText><nc:AddressFullText>CAP-DE-VILLE POINT FORTIN</nc:AddressFullText><nc:AddressFullText>TRINIDAD &amp; TABAGO WI</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>M1-4550 ROSWELL RD</nc:AddressFullText><nc:AddressFullText>ATLANTA GEORGIA 30342</nc:AddressFullText><nc:AddressFullText>USA</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>CALLE 5 MAYO 8 JUAREZ CORONACO</nc:AddressFullText><nc:AddressFullText>SAN MATIAS PUEBLO TLALANCALECA</nc:AddressFullText><nc:AddressFullText>MEXICO 74115</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>224 COLORINES</nc:AddressFullText><nc:AddressFullText>FRACTO. JARDINES DE</nc:AddressFullText><nc:AddressFullText>34200 DURANGO</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>19 SADDLECOTE CLOSE</nc:AddressFullText><nc:AddressFullText>MANCHESTER ENGLAND M8 5QE</nc:AddressFullText><nc:AddressFullText>UNITED KINGDOM</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>C NEUTRON MZ379 LT14 COLATIZAP</nc:AddressFullText><nc:AddressFullText>ATIZAPAN DE ZARAGOZA</nc:AddressFullText><nc:AddressFullText>MEXICO 52915</nc:AddressFullText></nc:Address>
+    <nc:Address><nc:AddressFullText>CHATEAU NOIR</nc:AddressFullText><nc:AddressFullText>436 CHEMIN DES GRANDES TERRES</nc:AddressFullText><nc:AddressFullText>13122 VENTABREN, FRA</nc:AddressFullText></nc:Address>
+</add:Addresses>

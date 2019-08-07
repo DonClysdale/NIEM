@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nc:Address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://interoperability.gc.ca/address/AddressValidation/2.0/ AddressValidation.xsd"
+    xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/"
+    xmlns:add="http://interoperability.gc.ca/address/AddressValidation/2.0/"
+    xmlns:tran="http://interoperability.gc.ca/techncical/transaction/2.0/">
+    <nc:AddressFullText>apt 6 back door c/o mary smith</nc:AddressFullText>
+    <nc:AddressFullText>23 Coronation</nc:AddressFullText>
+    <nc:LocationCityName>St. John's</nc:LocationCityName>
+    <nc:LocationState>
+        <nc:LocationCanadianProvinceCode>ON</nc:LocationCanadianProvinceCode>
+    </nc:LocationState>
+    <nc:LocationCountry>
+        <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+    </nc:LocationCountry>
+    <nc:LocationPostalCode>A1C5B9</nc:LocationPostalCode>
+</nc:Address>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nc:Address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://interoperability.gc.ca/address/AddressValidation/2.0/ AddressValidation.xsd"
+    xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/"
+    xmlns:add="http://interoperability.gc.ca/address/AddressValidation/2.0/"
+    xmlns:tran="http://interoperability.gc.ca/techncical/transaction/2.0/">
+    <nc:AddressFullText>95 RIVER STREET</nc:AddressFullText>
+    <nc:AddressFullText>SLEEPY HOLLOW NEW YORK 10591</nc:AddressFullText>
+    <nc:AddressFullText>UNITED STATES</nc:AddressFullText>
+</nc:Address>

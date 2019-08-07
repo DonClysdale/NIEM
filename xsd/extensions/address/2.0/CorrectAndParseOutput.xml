@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add:AddressValidation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://interoperability.gc.ca/address/AddressValidation/2.0/ AddressValidation.xsd"
+    xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/"
+    xmlns:add="http://interoperability.gc.ca/address/AddressValidation/2.0/"
+    xmlns:tran="http://interoperability.gc.ca/technical/transaction/2.0/">
+    <add:StatusCode>Corrected</add:StatusCode>
+    <add:ChangeText>Missing Street Type Provided: ST</add:ChangeText>
+    <add:ChangeText>Province Changed From ON To NL</add:ChangeText>
+    <nc:Address>
+        <nc:AddressSecondaryUnitText>APT 6</nc:AddressSecondaryUnitText>
+        <nc:AddressDeliveryPointText>BACK DOOR</nc:AddressDeliveryPointText>
+        <nc:LocationStreet>
+            <nc:StreetNumberText>23</nc:StreetNumberText>
+            <nc:StreetPredirectionalText></nc:StreetPredirectionalText>
+            <nc:StreetName>CORONATION</nc:StreetName>
+            <nc:StreetCategoryText>ST</nc:StreetCategoryText>
+            <nc:StreetPostdirectionalText></nc:StreetPostdirectionalText>
+        </nc:LocationStreet>
+        <nc:LocationCityName>ST. JOHN'S</nc:LocationCityName>
+        <nc:LocationState>
+            <nc:LocationCanadianProvinceCode>ON</nc:LocationCanadianProvinceCode>
+        </nc:LocationState>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode>A1C5B9</nc:LocationPostalCode>
+        <add:Transaction>
+            <tran:TransactionControlReferenceIdentification>
+                <nc:IdentificationID>affa9575-9e44-40c3-9c94-1be7295970bd</nc:IdentificationID>
+            </tran:TransactionControlReferenceIdentification>
+        </add:Transaction>
+    </nc:Address>
+</add:AddressValidation>

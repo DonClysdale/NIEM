@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query:QueryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://interoperability.gc.ca/technical/QueryData/2.0/ QueryData.xsd"
+    xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/"
+    xmlns:tran="http://interoperability.gc.ca/technical/transaction/2.0/"
+    xmlns:query="http://interoperability.gc.ca/technical/QueryData/2.0/"
+    xmlns:cli="http://reference.niem.gov/niem/specification/code-lists/4.0/code-lists-instance/"
+    xmlns:noc="http://interoperability.gc.ca/noc/2.0/">
+    <query:Expression query:expressionLanguage="XPath">
+        <query:DataEntity>
+            <query:DataElement>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup</query:DataElement>
+            <query:DataKey>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryCode</query:DataKey>
+        </query:DataEntity>
+        <query:DataSelect>
+            <query:DataElement>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup</query:DataElement>
+            <query:Parameter>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryOccupationTexts/noc:EmployeeOccupationText</query:Parameter>
+            <query:Value>/query:QueryData/query:AdvancedCriteria</query:Value>
+        </query:DataSelect>
+    </query:Expression>
+    <query:Date>
+        <nc:Date>2016-01-01</nc:Date>
+    </query:Date>
+    <query:AdvancedCriteria>
+        <query:AnyOfTheseWordsText>piano</query:AnyOfTheseWordsText>
+        <query:AnyOfTheseWordsText>keyboard</query:AnyOfTheseWordsText>
+        <query:NoneOfTheseWordsText>tuner</query:NoneOfTheseWordsText>
+    </query:AdvancedCriteria>
+    <query:Data>
+    </query:Data>
+    <query:Transaction>
+        <tran:TransactionOperationName>GetUnitGroup</tran:TransactionOperationName>
+    </query:Transaction>
+</query:QueryData>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<add:Addresses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://interoperability.gc.ca/address/AddressValidation/2.0/ AddressValidation.xsd" xmlns:add="http://interoperability.gc.ca/address/AddressValidation/2.0/" xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/">
+	<nc:Address>
+		<nc:AddressFullText>APPRENTICESHIP DEPT. OF</nc:AddressFullText>
+		<nc:AddressFullText>INNOVATION &amp; ADVANCED LEARNING</nc:AddressFullText>
+		<nc:AddressFullText>PO BOX 2000, 90 UNIVERSITY AVE</nc:AddressFullText>
+		<nc:AddressFullText>CHARLETTOWN   PE</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>C1A7N8</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>JASON COLE</nc:AddressFullText>
+		<nc:AddressFullText>DEPARTMENT OF EDUCATION</nc:AddressFullText>
+		<nc:AddressFullText>PO BOX 8700  4TH FL WEST BLOCK</nc:AddressFullText>
+		<nc:AddressFullText>ST-JOHN'S   NFLD</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>A1B4J6</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>BOB NICHOLSON</nc:AddressFullText>
+		<nc:AddressFullText>HUMAN RESOURCES</nc:AddressFullText>
+		<nc:AddressFullText>1800 HAMILTON ST / PO BOX 4320</nc:AddressFullText>
+		<nc:AddressFullText>REGINA  SK</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>S4P4L3</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>CHRIS GAGNON</nc:AddressFullText>
+		<nc:AddressFullText>CHALK RIVER LABORATORIES</nc:AddressFullText>
+		<nc:AddressFullText>286 PLANT RD - MAIL STN: KEYS</nc:AddressFullText>
+		<nc:AddressFullText>CHALK RIVER, ON</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>K0J1J0</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>ERICA BROWN - NEW BRUNSWICK</nc:AddressFullText>
+		<nc:AddressFullText>INTERNAL AUDIT &amp; PROFOLIO DEBT</nc:AddressFullText>
+		<nc:AddressFullText>PO BOX 6000</nc:AddressFullText>
+		<nc:AddressFullText>FREDERICTON, NB</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>E3B5H1</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>APT310-19 RUE BUTTE-A-ELOI</nc:AddressFullText>
+		<nc:AddressFullText>CAP-PELE NB</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>E4N1N5</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>37 CH DERASPE</nc:AddressFullText>
+		<nc:AddressFullText>L'ETANG-DU-NORD QC</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>G4T3A6</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>64 RUE LIONEL</nc:AddressFullText>
+		<nc:AddressFullText>NEGUAC NB</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>E9G1K3</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>6608 SILVERSTREAM</nc:AddressFullText>
+		<nc:AddressFullText>LAS VEGAS NV  89107</nc:AddressFullText>
+		<nc:AddressFullText>USA</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>US</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>USA</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>89107</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>C-O MR CRAIG P  FIRING</nc:AddressFullText>
+		<nc:AddressFullText>19850 BEACH RD 6D</nc:AddressFullText>
+		<nc:AddressFullText>JUPITER   FLORIDA</nc:AddressFullText>
+		<nc:AddressFullText> United States</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>US</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>USA</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+		<nc:LocationPostalCode>33469</nc:LocationPostalCode>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>PO BOX 233</nc:AddressFullText>
+		<nc:AddressFullText>DOVER-FOXCROFT</nc:AddressFullText>
+		<nc:AddressFullText>MAINE  04426</nc:AddressFullText>
+		<nc:AddressFullText>United States</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>26 BYZANTIOY</nc:AddressFullText>
+		<nc:AddressFullText>SPARTI LACONIAS</nc:AddressFullText>
+		<nc:AddressFullText>GREECE 23100</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>GR</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>GRC</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>22 TALBOT RD</nc:AddressFullText>
+		<nc:AddressFullText>HARROWWEALD MIDDLESEX</nc:AddressFullText>
+		<nc:AddressFullText>HA3 7QG</nc:AddressFullText>
+		<nc:AddressFullText>United Kingdom</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>GB</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>GBR</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+	</nc:Address>
+	<nc:Address>
+		<nc:AddressFullText>HOLDERSTRASSE 11</nc:AddressFullText>
+		<nc:AddressFullText>74232 ABSTATT</nc:AddressFullText>
+		<nc:AddressFullText>Germany</nc:AddressFullText>
+		<nc:LocationCountry>
+			<nc:LocationCountryISO3166Alpha2Code>DE</nc:LocationCountryISO3166Alpha2Code>
+			<nc:LocationCountryISO3166Alpha3Code>DEU</nc:LocationCountryISO3166Alpha3Code>
+		</nc:LocationCountry>
+	</nc:Address>
+</add:Addresses>

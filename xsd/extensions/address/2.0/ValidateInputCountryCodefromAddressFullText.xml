@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nc:Address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://interoperability.gc.ca/address/AddressValidation/2.0/ AddressValidation.xsd"
+    xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/"
+    xmlns:add="http://interoperability.gc.ca/address/AddressValidation/2.0/"
+    xmlns:tran="http://interoperability.gc.ca/techncical/transaction/2.0/">
+    <nc:AddressFullText>apt 6 back door c/o mary smith</nc:AddressFullText>
+    <nc:AddressFullText>23 Coronation</nc:AddressFullText>
+    <nc:AddressFullText>Germany</nc:AddressFullText>
+    <nc:AddressSecondaryUnitText>202</nc:AddressSecondaryUnitText>
+    <nc:LocationStreet>
+        <nc:StreetFullText>StreetName NW</nc:StreetFullText>
+        <nc:StreetFullText></nc:StreetFullText>
+        <nc:StreetNumberText>123</nc:StreetNumberText>
+        <nc:StreetName>StreetName</nc:StreetName>
+        <nc:StreetPostdirectionalText>NW</nc:StreetPostdirectionalText>
+    </nc:LocationStreet>
+    <nc:AddressDeliveryPointText>first floor</nc:AddressDeliveryPointText>
+    <nc:AddressBuildingName>Building Name</nc:AddressBuildingName>
+    <nc:LocationRouteName>PO BOX 123</nc:LocationRouteName>
+    <nc:AddressRecipientName>Receipient Name</nc:AddressRecipientName>
+    <nc:LocationCityName>Ottawa</nc:LocationCityName>
+
+
+</nc:Address>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query:QueryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://interoperability.gc.ca/technical/QueryData/2.0/ QueryData.xsd"
+    xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/"
+    xmlns:tran="http://interoperability.gc.ca/technical/transaction/2.0/"
+    xmlns:query="http://interoperability.gc.ca/technical/QueryData/2.0/"
+    xmlns:cli="http://reference.niem.gov/niem/specification/code-lists/4.0/code-lists-instance/"
+    xmlns:noc="http://interoperability.gc.ca/noc/2.0/">
+    <query:Expression query:expressionLanguage="XPath">
+        <query:DataEntity>
+            <query:DataElement>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup</query:DataElement>
+            <query:DataKey>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryCode</query:DataKey>
+        </query:DataEntity>
+        <query:DataSelect>
+            <query:DataElement>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryOccupationTexts/noc:EmployeeOccupationText</query:DataElement>
+            <query:Parameter>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryCode</query:Parameter>
+            <query:Value>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryCode</query:Value>
+        </query:DataSelect>
+        <query:DataSelect>
+            <query:DataElement>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryLeadStatement/noc:EmployeeOccupationCategoryLeadStatementText</query:DataElement>
+            <query:Parameter>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryCode</query:Parameter>
+            <query:Value>/query:QueryData/query:Data/noc:NationalOccupationClassification/noc:UnitGroup/noc:EmployeeOccupationCategoryCode</query:Value>
+        </query:DataSelect>
+    </query:Expression>
+    <query:Date>
+        <nc:Date>2016-01-01</nc:Date>
+    </query:Date>
+    <query:Data>
+        <noc:NationalOccupationClassification>
+            <noc:UnitGroup noc:documentPublicationDate="2001-01-01"
+                noc:documentPostDate="2005-01-14" noc:versionID="2016">
+                <noc:EmployeeOccupationCategoryCode cli:codeListURI=""
+                    >2148</noc:EmployeeOccupationCategoryCode>
+                <nc:EmployeeOccupationCategoryText xml:lang="en">Other professional engineers, n.e.c.</nc:EmployeeOccupationCategoryText>
+                <nc:EmployeeOccupationCategoryText xml:lang="fr">Autres ingénieurs/ingénieures, n.c.a.</nc:EmployeeOccupationCategoryText>
+            </noc:UnitGroup>
+        </noc:NationalOccupationClassification>
+        <noc:NationalOccupationClassification>
+            <noc:UnitGroup noc:documentPublicationDate="2001-01-01"
+                noc:documentPostDate="2005-01-14" noc:versionID="2016">
+                <noc:EmployeeOccupationCategoryCode cli:codeListURI=""
+                    >2149</noc:EmployeeOccupationCategoryCode>
+                <nc:EmployeeOccupationCategoryText xml:lang="en">Other professional engineers, n.e.c.</nc:EmployeeOccupationCategoryText>
+                <nc:EmployeeOccupationCategoryText xml:lang="fr">Autres ingénieurs/ingénieures, n.c.a.</nc:EmployeeOccupationCategoryText>
+            </noc:UnitGroup>
+        </noc:NationalOccupationClassification>
+    </query:Data>
+    <query:Transaction>
+        <tran:TransactionOperationName>GetUnitGroup</tran:TransactionOperationName>
+    </query:Transaction>
+</query:QueryData>

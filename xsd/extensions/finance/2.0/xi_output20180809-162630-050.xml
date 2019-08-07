@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns1:ProgramObligation xmlns:ns1="http://interoperability.gc.ca/finance/ProgramObligation/2.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://interoperability.gc.ca/finance/ProgramPaymentLot/2.0/ file://C:/ITeamWorkspace12c/Artifacts/CORE/trunk/SharedArtifacts/Solutions/NIEM/4.0/Schemas/extensions/finance/2.0/ProgramObligation.xsd">
+    <ns1:ObligationDueRecoverableAmount>
+        <ns2:Amount xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">2395.0</ns2:Amount>
+        <ns2:CurrencyCode xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+        >CAD</ns2:CurrencyCode>
+    </ns1:ObligationDueRecoverableAmount>
+    <ns1:ObligationDueRegularAmount>
+        <ns2:Amount xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">2695.0</ns2:Amount>
+        <ns2:CurrencyCode xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+            >CAD</ns2:CurrencyCode>
+    </ns1:ObligationDueRegularAmount>
+    <ns1:ObligationDueSpecialAmount>
+        <ns2:Amount xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">0.0</ns2:Amount>
+        <ns2:CurrencyCode xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+            >CAD</ns2:CurrencyCode>
+    </ns1:ObligationDueSpecialAmount>
+    <ns1:ObligationDueEmployerBankruptcyAmount>
+        <ns2:Amount xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">0.0</ns2:Amount>
+        <ns2:CurrencyCode xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+            >CAD</ns2:CurrencyCode>
+    </ns1:ObligationDueEmployerBankruptcyAmount>
+    <ns1:ObligationDueFineAmount>
+        <ns2:Amount xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">0.0</ns2:Amount>
+        <ns2:CurrencyCode xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+            >CAD</ns2:CurrencyCode>
+    </ns1:ObligationDueFineAmount>
+    <ns1:ObligationDueTrainingAmount>
+        <ns2:Amount xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">0.0</ns2:Amount>
+        <ns2:CurrencyCode xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+            >CAD</ns2:CurrencyCode>
+    </ns1:ObligationDueTrainingAmount>
+    <ns1:ObligationDuePenaltyAmount>
+        <ns2:Amount xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">0.0</ns2:Amount>
+        <ns2:CurrencyCode xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+            >CAD</ns2:CurrencyCode>
+    </ns1:ObligationDuePenaltyAmount>
+    <ns2:ObligationEntity xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">
+        <ns2:EntityPerson>
+            <ns6:PersonSINIdentification
+                xmlns:ns6="http://interoperability.gc.ca/person/Person/2.0/">
+                <ns2:IdentificationID>132227612</ns2:IdentificationID>
+            </ns6:PersonSINIdentification>
+        </ns2:EntityPerson>
+    </ns2:ObligationEntity>
+    <ns2:ObligationRecipient xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">
+        <ns2:EntityOrganization/>
+    </ns2:ObligationRecipient>
+    <ns1:ObligationDate>
+        <ns2:Date xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">2018-04-16</ns2:Date>
+    </ns1:ObligationDate>
+    <ns1:ObligationIdentification>
+        <ns2:IdentificationID xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+            >000000</ns2:IdentificationID>
+    </ns1:ObligationIdentification>
+    <ns2:Program xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/">
+        <ns2:ActivityIdentification>
+            <ns2:IdentificationID>EI</ns2:IdentificationID>
+        </ns2:ActivityIdentification>
+    </ns2:Program>
+    <ns1:Transaction>
+        <ns4:TransactionDate xmlns:ns4="http://interoperability.gc.ca/technical/transaction/2.0/">
+            <ns2:DateTime xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+                >2018-08-09T16:26:29Z</ns2:DateTime>
+        </ns4:TransactionDate>
+        <ns4:TransactionControlIdentification
+            xmlns:ns4="http://interoperability.gc.ca/technical/transaction/2.0/">
+            <ns2:IdentificationID xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+                >26358fe852021ee8a6fe141672c24425</ns2:IdentificationID>
+        </ns4:TransactionControlIdentification>
+        <ns4:TransactionOperationName
+            xmlns:ns4="http://interoperability.gc.ca/technical/transaction/2.0/"
+            >PublishProgramObligation</ns4:TransactionOperationName>
+        <ns4:TransactionApplicationProfile
+            xmlns:ns4="http://interoperability.gc.ca/technical/transaction/2.0/">
+            <ns4:ApplicationProfileOrganizationName>ESDC</ns4:ApplicationProfileOrganizationName>
+            <ns4:ApplicationProfileName>SAP</ns4:ApplicationProfileName>
+            <ns4:ApplicationProfileVersionIdentification>
+                <ns2:IdentificationID xmlns:ns2="http://release.niem.gov/niem/niem-core/4.0/"
+                    >1.0</ns2:IdentificationID>
+            </ns4:ApplicationProfileVersionIdentification>
+        </ns4:TransactionApplicationProfile>
+        <ns4:TransactionMajorVersionValue
+            xmlns:ns4="http://interoperability.gc.ca/technical/transaction/2.0/"
+            >2</ns4:TransactionMajorVersionValue>
+        <ns4:TransactionMinorVersionValue
+            xmlns:ns4="http://interoperability.gc.ca/technical/transaction/2.0/"
+            >0</ns4:TransactionMinorVersionValue>
+    </ns1:Transaction>
+</ns1:ProgramObligation>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add:Addresses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://interoperability.gc.ca/address/AddressValidation/2.0/ AddressValidation.xsd" xmlns:add="http://interoperability.gc.ca/address/AddressValidation/2.0/" xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/">
+    <nc:Address>
+        <nc:AddressFullText>APPRENTICESHIP DEPT. OF</nc:AddressFullText>
+        <nc:AddressFullText>INNOVATION &amp; ADVANCED LEARNING</nc:AddressFullText>
+        <nc:AddressFullText>PO BOX 2000, 90 UNIVERSITY AVE</nc:AddressFullText>
+        <nc:AddressFullText>CHARLETTOWN   PE</nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode>C1A7N8</nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText>JASON COLE</nc:AddressFullText>
+        <nc:AddressFullText>DEPARTMENT OF EDUCATION</nc:AddressFullText>
+        <nc:AddressFullText>PO BOX 8700  4TH FL WEST BLOCK</nc:AddressFullText>
+        <nc:AddressFullText>ST-JOHN'S   NFLD</nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode>A1B4J6</nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText>BOB NICHOLSON</nc:AddressFullText>
+        <nc:AddressFullText>HUMAN RESOURCES</nc:AddressFullText>
+        <nc:AddressFullText>1800 HAMILTON ST / PO BOX 4320</nc:AddressFullText>
+        <nc:AddressFullText>REGINA  SK</nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode>S4P4L3</nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText>CHRIS GAGNON</nc:AddressFullText>
+        <nc:AddressFullText>CHALK RIVER LABORATORIES</nc:AddressFullText>
+        <nc:AddressFullText>286 PLANT RD - MAIL STN: KEYS</nc:AddressFullText>
+        <nc:AddressFullText>CHALK RIVER, ON</nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode>K0J1J0</nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+    <nc:Address>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:AddressFullText></nc:AddressFullText>
+        <nc:LocationCountry>
+            <nc:LocationCountryISO3166Alpha2Code>CA</nc:LocationCountryISO3166Alpha2Code>
+            <nc:LocationCountryISO3166Alpha3Code>CAN</nc:LocationCountryISO3166Alpha3Code>
+        </nc:LocationCountry>
+        <nc:LocationPostalCode></nc:LocationPostalCode>
+    </nc:Address>
+</add:Addresses>

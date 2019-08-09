@@ -3,7 +3,7 @@
 
 ## NIEM Enterprise Information Exchange Model - Employment and Social Development Canada (ESDC)
 - The ESDC Enterprise Information Exchange Model (EIEM) is a collection of locally developed schemas that extend the NIEM models to suport the department-wide interoperability solutions.
-- NIEM is a common vocabulary that enables efficient information exchange across diverse public and private organizations. NIEM can save time and money by providing consistent, reusable data terms and definitions, and repeatable processes (see NIEM.gov).
+- NIEM is a common vocabulary that enables efficient information exchange across diverse public and private organizations. NIEM can save time and money by providing consistent, reusable data terms and definitions, and repeatable processes [see NIEM.gov](https://www.niem.gov/).
 - Interoperability solutions (including services and APIs) use a subset of the NIEM schemas, and schema extensions to define the contracts for services and APIs. Those contracts may be for SOAP services or REST APIs, but the vocabulary is the same.
 - Any solution interacting with ESDC's interoperability solutions will directly or indirectly use these exchange models, and may use them for internal information exchange.
 - The goal of this Enterprise Information Exchange Model is to bring consistency and efficiency to the development of interoperability solutions by resusing the same vocabulary.
@@ -22,7 +22,7 @@ ______________________
 
 ## Modèle d'échange d'informations d'entreprise NIEM - Emploi et Développement social Canada (EDSC)
 - Le modèle d'échange d'informations d'entreprise (EIEM) d'ESDC est un ensemble de schémas développés localement qui étendent les modèles NIEM pour prendre en charge les solutions d'interopérabilité à l'échelle du département.
-- NIEM est un vocabulaire commun qui permet un échange d'informations efficace entre diverses organisations publiques et privées. NIEM peut gagner du temps et de l'argent en fournissant des termes et des définitions de données cohérents et réutilisables, ainsi que des processus répétables (voir NIEM.gov).
+- NIEM est un vocabulaire commun qui permet un échange d'informations efficace entre diverses organisations publiques et privées. NIEM peut gagner du temps et de l'argent en fournissant des termes et des définitions de données cohérents et réutilisables, ainsi que des processus répétables [voir NIEM.gov](https://www.niem.gov/).
 - Les solutions d'interopérabilité (y compris les services et les API) utilisent un sous-ensemble des schémas NIEM et des extensions de schéma pour définir les contrats de services et les API. Ces contrats peuvent concerner des services SOAP ou des API REST, mais le vocabulaire est le même.
 - Toute solution interagissant avec les solutions d'interopérabilité d'EDSC utilisera directement ou indirectement ces modèles d'échange et pourra les utiliser pour un échange d'informations interne.
 - L'objectif de ce modèle d'échange d'informations d'entreprise est d'apporter cohérence et efficacité au développement de solutions d'interopérabilité en réutilisant le même vocabulaire.

@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/DonClysdale/NIEM-EIEM.svg?branch=master)](https://travis-ci.org/DonClysdale/NIEM-EIEM)
 
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
 

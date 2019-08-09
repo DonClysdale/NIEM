@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<can:Province xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://interoperability.gc.ca/address/Address/2.0/ Address.xsd"
+<can:Province xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://interoperability.gc.ca/address/Address/2.0/ ../xsd/extensions/address/2.0/Address.xsd"
 	xmlns:structures="http://release.niem.gov/niem/structures/4.0/" xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/"
 	xmlns:add="http://interoperability.gc.ca/address/Address/2.0/" xmlns:can="http://interoperability.gc.ca/localize/Canadianize/2.0/"
 	xmlns:iso_639-3="http://release.niem.gov/niem/codes/iso_639-3/4.0/" xmlns:scr="http://release.niem.gov/niem/domains/screening/4.1/"

@@ -1,9 +1,8 @@
 
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
 
-## Template for Government of Canada open source code repositories
-
-- What is this project?
+## NIEM Enterprise Information Exchange Model - Employment and Social Development Canada (ESDC)
+- The ESDC Enterprise Information Exchange Model (EIEM) is a collection of locally developed schemas that extend the NIEM models to suport the department-wide interoperability
 - How does it work?
 - Who will use this project?
 - What is the goal of this project?

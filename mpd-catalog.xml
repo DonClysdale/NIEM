@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<c:Catalog xmlns:can="http://interoperability.gc.ca/localize/Canadianize/2.0/" xmlns:c="http://reference.niem.gov/niem/resource/mpd/catalog/3.0/"
-    xmlns:structures="http://release.niem.gov/niem/structures/3.0/" xmlns:nc="http://release.niem.gov/niem/niem-core/3.0/">
-    <c:MPD c:mpdURI="http://example.com/template/0.1/"
-        c:mpdClassURIList="http://reference.niem.gov/niem/specification/model-package-description/3.0/#MPD
-        http://reference.niem.gov/niem/specification/model-package-description/3.0/#EIEM"
+<c:Catalog xmlns:can="http://interoperability.gc.ca/localize/Canadianize/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://reference.niem.gov/niem/resource/mpd/catalog/4.0/ xsd/mpd-catalog-4.0.xsd"
+    xmlns:c="http://reference.niem.gov/niem/resource/mpd/catalog/4.0/"
+    xmlns:structures="http://release.niem.gov/niem/structures/4.0/" xmlns:nc="http://release.niem.gov/niem/niem-core/4.0/">
+    <c:MPD c:mpdURI="http://interoperability.gc.ca/localize/Canadianize/2.0/"
+        c:mpdClassURIList="http://reference.niem.gov/niem/specification/model-package-description/4.0/#MPD
+        http://reference.niem.gov/niem/specification/model-package-description/4.0/#EIEM"
         c:mpdName="EIEM" c:mpdVersionID="1.0">
         <c:MPDInformation>
             <c:AuthoritativeSource>

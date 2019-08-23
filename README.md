@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/DonClysdale/NIEM-EIEM.svg?branch=master)](https://travis-ci.org/DonClysdale/NIEM-EIEM)
 
-([Français](#Modèle-d'échange-d'informations-d'entreprise-NIEM---Emploi-et-Développement-Social-Canada-(EDSC)))
+([Français](#mod%C3%A8le-d%C3%A9change-dinformations-dentreprise-niem---emploi-et-d%C3%A9veloppement-social-canada-edsc))
 
 ## NIEM Enterprise Information Exchange Model - Employment and Social Development Canada (ESDC)
 - The ESDC Enterprise Information Exchange Model (EIEM) is a collection of locally developed schemas that extend the NIEM models to suport the department-wide interoperability solutions.

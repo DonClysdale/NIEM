@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/DonClysdale/NIEM-EIEM.svg?branch=master)](https://travis-ci.org/DonClysdale/NIEM-EIEM)
 
-([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
+([Français](#modèle-d'échange-d'informations-d'entreprise-NIEM---Emploi-et-Développement-social-Canada-(EDSC)))
 
 ## NIEM Enterprise Information Exchange Model - Employment and Social Development Canada (ESDC)
 - The ESDC Enterprise Information Exchange Model (EIEM) is a collection of locally developed schemas that extend the NIEM models to suport the department-wide interoperability solutions.
@@ -21,7 +21,7 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ______________________
 
-## Modèle d'échange d'informations d'entreprise NIEM - Emploi et Développement social Canada (EDSC)
+## Modèle d'échange d'informations d'entreprise NIEM - Emploi et Développement Social Canada (EDSC)
 - Le modèle d'échange d'informations d'entreprise (EIEM) d'ESDC est un ensemble de schémas développés localement qui étendent les modèles NIEM pour prendre en charge les solutions d'interopérabilité à l'échelle du département.
 - NIEM est un vocabulaire commun qui permet un échange d'informations efficace entre diverses organisations publiques et privées. NIEM peut gagner du temps et de l'argent en fournissant des termes et des définitions de données cohérents et réutilisables, ainsi que des processus répétables [voir NIEM.gov](https://www.niem.gov/).
 - Les solutions d'interopérabilité (y compris les services et les API) utilisent un sous-ensemble des schémas NIEM et des extensions de schéma pour définir les contrats de services et les API. Ces contrats peuvent concerner des services SOAP ou des API REST, mais le vocabulaire est le même.
